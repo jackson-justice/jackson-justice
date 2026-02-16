@@ -1,4 +1,4 @@
-## Hi, I'm Jackson 👋
+## Hi, I'm Jackson
 
 I’m a Statistics (Data Science emphasis) student at BYU focused on building real-world analytical projects and sharpening my technical skills.
 
