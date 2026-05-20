@@ -19,7 +19,7 @@ I’m a Statistics (Data Science emphasis) student at BYU focused on building re
 - Workflow automation  
 
 ### Current Goal
-Build a portfolio of high-impact analytical projects and prepare for data analyst / quantitative roles.
+Build a portfolio of high-impact analytical projects and prepare for data science / quantitative roles.
 
 ### Connect With Me
 - LinkedIn: https://www.linkedin.com/in/jackson-justice  
