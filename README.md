@@ -2,9 +2,9 @@
 
 I'm a Statistics student at BYU studying Data Science and Mathematics.
 
-I build projects in **statistical modeling, sports analytics, predictive modeling, and data visualization**, with most of my work in Python and R.
+I build projects in **statistical modeling, predictive analytics, data engineering, and data visualization**, primarily using Python, R, and SQL.
 
-Currently building **Statigami**, a collection of projects exploring unusual and interesting patterns in sports and real-world data.
+My work includes standalone projects in machine learning, forecasting, business analytics, and data systems, along with **Statigami** — my data-storytelling series exploring unusual questions and patterns, primarily in sports.
 
 ### Tools
 Python · R · SQL · TypeScript · C++ · Git · MongoDB · Quarto
